@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe3d5d36-fce0-4dfe-8ca7-c91c02776d52" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DAO/GenericDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/GenericDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DAO/IMonHocDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/IMonHocDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DAO/INhomDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/INhomDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DAO/impl/AbstracDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/impl/AbstracDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DAO/impl/MonHocDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/impl/MonHocDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DAO/impl/NhomDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/impl/NhomDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DAO/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Entity/Buoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Entity/Buoi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Entity/MonHoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Entity/MonHoc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Entity/Nhom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Entity/Nhom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Service/keyDistinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/keyDistinct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Service/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Service/mtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/mtest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Service/tkb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/tkb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utils/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utils/HibernateUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ViewModel/CustomViewModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ViewModel/CustomViewModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constant/CoreContant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constant/CoreContant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data/GetData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/GetData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data/tbl_Monhoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/tbl_Monhoc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fe3d5d36-fce0-4dfe-8ca7-c91c02776d52" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -69,16 +44,19 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1keGVTt2QTICVgMQy8UJYAsEo5r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -98,13 +76,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetData">
+  <component name="RunManager" selected="Application.PaginationExampleMain">
     <configuration name="GetData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data.GetData" />
       <module name="tkb" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaginationExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.logicbig.example.PaginationExampleMain" />
+      <module name="tkb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logicbig.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Service.main" />
+      <module name="tkb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,6 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PaginationExampleMain" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.GetData" />
         <item itemvalue="Application.test" />
       </list>
@@ -169,7 +175,11 @@
       <workItem from="1604814086206" duration="311000" />
       <workItem from="1604986652474" duration="47000" />
       <workItem from="1604994999357" duration="559000" />
-      <workItem from="1605931395696" duration="3156000" />
+      <workItem from="1605931395696" duration="5335000" />
+      <workItem from="1606053668506" duration="3822000" />
+      <workItem from="1606090095176" duration="76000" />
+      <workItem from="1606090851160" duration="2233000" />
+      <workItem from="1606099925468" duration="11273000" />
     </task>
     <servers />
   </component>
@@ -184,6 +194,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -205,5 +228,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="mainlists.get(1).get(0)" />
+        <watch expression="mainlists.get(0).get(4)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
